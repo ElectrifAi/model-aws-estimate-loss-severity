@@ -8,3 +8,4 @@ Predict loss severities for residential mortgages based on macroeconomics and th
 
 SKU: ESTLS-PS-RMG-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-cdvsu2yycm7vw
